@@ -9,5 +9,5 @@ public class Task2CrudApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(Task2CrudApplication.class, args);
 	}
-//comments and others
+//comments
 }
